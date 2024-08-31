@@ -33,22 +33,28 @@ Hi, I'm a second-year student pursuing a Bachelor of Science in Information Tech
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+## About Me  
+<table><tr><td valign="top" width="70%">
 
-- 🌱 I’m currently learning PHP language and Java Language  
-  
+🌱 I'm currently learning Object-Oriented Programming in PHP and MySQL database.
 
-- ❓ Ask me about anything related to creating 3d mockup designs.  
-  
 
-- ⚡ Fun fact: I might just pull an all-nighter whenever a big project comes my way!  
+💻 I have prior knowledge of Java, HTML, CSS, C#, Figma, and a bit of JavaScript.
+
+
+🚀 I'm on a journey to becoming a full-stack developer, constantly upskilling along the way.
+
+
+🎨 I'm also a freelance graphic designer, specializing in creating 3D mockup models for packaging and branding.
+
+
+😅 Fun fact: I drink a lot of Red Bull and Monster when tackling tough and challenging projects!  
 
 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github.com/shekinahlvbn/shekinahlvbn/blob/main/toothless.jpg" align="center" style="width: 100%" />
+<img src="https://github.com/shekinahlvbn/shekinahlvbn/blob/main/toothless.jpg" align="center" style="width: 100%"/>
 </div>  
 
 
