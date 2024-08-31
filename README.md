@@ -1,4 +1,4 @@
-## Yooo👋, I'm Shekinah  
+## Yooo👋, I'm Shekinah Custodio
   
 
 <a href="https://github.com/shekinahlvbn" target="_blank">
@@ -108,5 +108,4 @@ Hi, I'm a second-year student pursuing a Bachelor of Science in Information Tech
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
