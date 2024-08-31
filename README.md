@@ -93,19 +93,10 @@ Hi, I'm a second-year student pursuing a Bachelor of Science in Information Tech
 
 </td></tr></table>  
 
-<br/>  
+<div valign="top" width="100%">
+  <img src="https://streak-stats.demolab.com?user=shekinahlvbn&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=shekinahlvbn&&style=flat-square)  
-  
-
-<br/>  
-
-  
-
-<br />
+###
 
 
