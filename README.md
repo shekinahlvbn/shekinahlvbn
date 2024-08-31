@@ -48,7 +48,7 @@ Hi, I'm a second-year student pursuing a Bachelor of Science in Information Tech
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github.com/shekinahlvbn/shekinahlvbn/blob/main/hi-kitty.gif" align="center" style="width: 100%" />
+<img src="https://github.com/shekinahlvbn/shekinahlvbn/blob/main/toothless.jpg" align="center" style="width: 100%" />
 </div>  
 
 
