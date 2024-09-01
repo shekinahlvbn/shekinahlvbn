@@ -1,4 +1,4 @@
-## Yooo👋, I'm Shekinah Custodio
+## Yohooooo👋, I'm Shekinah Custodio
   
 
 <a href="https://github.com/shekinahlvbn" target="_blank">
